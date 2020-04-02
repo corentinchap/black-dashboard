@@ -1,6 +1,6 @@
 {
   "name": "black-dashboard-2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a fork of Black Dasboard with some bugfixes",
   "main": "index.html",
   "directories": {
